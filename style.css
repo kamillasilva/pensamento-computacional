@@ -1,0 +1,53 @@
+ 	body {
+        color: #000001;
+        background: #f7dcbc;
+
+}
+ 	p {
+       		text-align: center;
+       		font-size: 23px;
+}
+
+
+#titulo {
+	text-align: center;
+  	font-size: 45px;
+    color: #7f0000;
+    background: #ffe4b8;
+}
+
+#imagensmesm {
+  height: 380px;
+  width: 320px;
+
+}
+
+#japeslav {
+height: 380px;
+width: 450px;
+
+}
+
+#sumario {
+    
+    font-size: 23px;
+}
+
+#sumariotit {
+    text-align: left ;
+    font-size: 45px;
+    color: #900020;
+}
+
+#nmpag {
+    font-size: 65px;
+    text-align: center;
+    color: #E32636;
+
+}
+
+#p1 {
+
+    text-align: right;
+    font-size:22px;
+}
